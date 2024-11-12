@@ -30,7 +30,7 @@ Signify RAG is an advanced Retrieval-Augmented Generation (RAG) tool designed to
 
 ## Install Dependencies: Ensure you have Python 3.7 or later, then install dependencies:
 
-```bash
+
 pip install -r requirements.txt
 
 Set Up Environment Variables: Create a .env file in the root directory to store environment variables such as API keys and configuration settings.
@@ -38,6 +38,7 @@ Set Up Environment Variables: Create a .env file in the root directory to store 
 Run the Application: Start the Streamlit app:
 
 streamlit run app.py
-Access the Application: Open http://localhost:8501 in your browser. For mobile access, open the URL in the WebView of your Flutter app.
+Access the Application: Open http://localhost:8501 in your browser. For mobile access, open the URL in the WebView of your Flutter
+
 
 
